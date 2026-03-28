@@ -76,7 +76,7 @@
 ------------------
 Όχι πολλά.
 
-* Για τις διαλέξεις 2 και 3 είναι καλό να έχεις [βασικές γνώσεις ανάπτυξης web εφαρμογών](http://web-seminar.softlab.ntua.gr/).
+* Για τις διαλέξεις 2 και 3 είναι καλό να έχεις βασικές γνώσεις ανάπτυξης web εφαρμογών.
 * Για το μεγαλύτερο μέρος του σεμιναρίου, δεν υπάρχουν προαπαιτούμενες γνώσεις!
 
 Πού γράφομαι;
@@ -93,21 +93,21 @@
 
 Ποιοι είστε;
 ------------
-Είμαστε ο [Πέτρος](https://twitter.com/petrosagg) κι ο [Διονύσης](https://twitter.com/dionyziz), φοιτητές στο [πολυτεχνείο](http://ece.ntua.gr/).
+Είμαστε ο [Πέτρος](https://x.com/petrosagg) κι ο [Διονύσης](https://x.com/dionyziz), φοιτητές στο [πολυτεχνείο](http://ece.ntua.gr/).
 
 <ul class="faces clearfix">
-    <li><a href="https://twitter.com/petrosagg"><img src="images/petrosagg.jpg" alt="petrosagg" /></a></li>
-    <li><a href="https://twitter.com/dionyziz"><img src="images/dionyziz.jpg" alt="dionyziz" /></a></li>
+    <li><a href="https://x.com/petrosagg"><img src="images/petrosagg.jpg" alt="petrosagg" /></a></li>
+    <li><a href="https://x.com/dionyziz"><img src="images/dionyziz.jpg" alt="dionyziz" /></a></li>
 </ul>
 
-Μας βοηθάνε επίσης ο [Σωκράτης](https://twitter.com/sokratisvidros), ο [Κωστής](https://twitter.com/gtklocker), ο [Γιώργος](https://void.gr/), ο **Λάζαρος**, ο [Νικόλας](https://twitter.com/Renelvon), ο [Γιώργος](https://twitter.com/sophron_), ο **Στέφανος** και ο [Δημήτρης](https://dimkarakostas.com).
+Μας βοηθάνε επίσης ο [Σωκράτης](https://x.com/sokratisvidros), ο [Κωστής](https://x.com/gtklocker), ο [Γιώργος](https://void.gr/), ο **Λάζαρος**, ο [Νικόλας](https://x.com/Renelvon), ο [Γιώργος](https://x.com/sophron_), ο **Στέφανος** και ο [Δημήτρης](https://dimkarakostas.com).
 
 <ul class="faces clearfix">
-    <li><a href="https://twitter.com/sokratisvidros"><img src="https://www.gravatar.com/avatar/a2827fa33bfa6df874697c63373fc7dd?s=400" alt="sokratisvidros" /></a></li>
-    <li><a href="https://twitter.com/gtklocker"><img src="https://www.gravatar.com/avatar/82628d534722acba1bbd2768f6d8c559?s=400" alt="gtklocker" /></a></li>
-    <li><a href="https://twitter.com/kargig"><img src="https://www.gravatar.com/avatar/5e81d893294a1f25ac8478ce816d2bd8?s=400" alt="kargig" /></a></li>
+    <li><a href="https://x.com/sokratisvidros"><img src="https://www.gravatar.com/avatar/a2827fa33bfa6df874697c63373fc7dd?s=400" alt="sokratisvidros" /></a></li>
+    <li><a href="https://x.com/gtklocker"><img src="https://www.gravatar.com/avatar/82628d534722acba1bbd2768f6d8c559?s=400" alt="gtklocker" /></a></li>
+    <li><a href="https://x.com/kargig"><img src="https://www.gravatar.com/avatar/5e81d893294a1f25ac8478ce816d2bd8?s=400" alt="kargig" /></a></li>
     <li><img src="https://gravatar.com/avatar/25ee07895736523cf6939408c65ec7a7?s=400" alt="lazaros" /></li>
-    <li><a href="https://twitter.com/renelvon"><img src="https://github.com/renelvon.png?size=400" alt="renelvon" /></a></li>
+    <li><a href="https://x.com/renelvon"><img src="https://github.com/renelvon.png?size=400" alt="renelvon" /></a></li>
     <li><a href="https://sophron.latthi.com"><img src="https://www.gravatar.com/avatar/c51803804b2667b809256105ec574ab4?s=400" alt="sophron" /></a></li>
     <li><img src="https://s.gravatar.com/avatar/f9295446361c9d7d231e4fc0c02321d1?s=400" alt="stefanosliv" /></a></li>
     <li><a href="https://dimkarakostas.com"><img src="https://s.gravatar.com/avatar/2da57354b788d97556e3aba31e2470a9?s=400" alt="dimkarakostas" /></a></li>
