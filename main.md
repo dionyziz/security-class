@@ -10,8 +10,8 @@
 
  * GPG & κρυπτογραφία
  * [Βίντεο](https://www.youtube.com/watch?v=DVFtfOl_V9c)
- * [Εισαγωγικές διαφάνειες](https://github.com/gtklocker/security-class/raw/master/slides/00_administrativa.pdf)
- * [Διαφάνειες](https://github.com/gtklocker/security-class/raw/master/slides/01_GPG.pdf)
+ * [Εισαγωγικές διαφάνειες](https://github.com/dionyziz/security-class/raw/gh-pages/slides/00_administrativa.pdf)
+ * [Διαφάνειες](https://github.com/dionyziz/security-class/raw/gh-pages/slides/01_GPG.pdf)
  * Προτεινόμενη ανάγνωση: [GPG Handbook](http://www.gnupg.org/gph/en/manual.html)
  * [1η άσκηση (GPG)](#exercises/1)
 
@@ -25,8 +25,8 @@
 
  * HTTPS, HSTS, ARP, BREACH
  * [Βίντεο](https://www.youtube.com/watch?v=ZkIFiuL3DSM)
- * [Διαφάνειες HTTPS](https://github.com/gtklocker/security-class/raw/master/slides/02_HTTPS.pdf)
- * [Διαφάνειες BREACH](https://github.com/gtklocker/security-class/raw/master/slides/02_BREACH.pdf)
+ * [Διαφάνειες HTTPS](https://github.com/dionyziz/security-class/raw/gh-pages/slides/02_HTTPS.pdf)
+ * [Διαφάνειες BREACH](https://github.com/dionyziz/security-class/raw/gh-pages/slides/02_BREACH.pdf)
  * [2η άσκηση (HTTPS)](#exercises/2)
 
 </li>
@@ -39,7 +39,7 @@
 
  * Ασφάλεια web εφαρμογών
  * [Βίντεο](https://www.youtube.com/watch?v=j7_QpWzOsU4)
- * [Διαφάνειες](https://github.com/gtklocker/security-class/raw/master/slides/03_web.pdf)
+ * [Διαφάνειες](https://github.com/dionyziz/security-class/raw/gh-pages/slides/03_web.pdf)
  * [3η άσκηση (DVWA)](#exercises/3)
 
 </li>
@@ -52,7 +52,7 @@
 
  * Tor, OTR, Bitcoin
  * [Βίντεο](https://www.youtube.com/watch?v=3QQg0ZKInMM)
- * [Διαφάνειες](https://github.com/gtklocker/security-class/raw/master/slides/04_Bitcoin.pdf)
+ * [Διαφάνειες](https://github.com/dionyziz/security-class/raw/gh-pages/slides/04_Bitcoin.pdf)
  * [4η άσκηση (Bitcoin)](#exercises/4)
  * [5η άσκηση (Tor hidden service)](#exercises/5)
  * [6η άσκηση (OTR)](#exercises/6)
@@ -67,7 +67,7 @@
 
  * Κρυπτογράφηση δίσκου, φυσικές επιθέσεις
  * [Βίντεο](https://www.youtube.com/watch?v=oHC3zw5Hd9M)
- * [Διαφάνειες](https://github.com/gtklocker/security-class/raw/master/slides/05_Physical.pdf)
+ * [Διαφάνειες](https://github.com/dionyziz/security-class/raw/gh-pages/slides/05_Physical.pdf)
 
 </li>
 </ol>
